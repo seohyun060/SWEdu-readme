@@ -18,9 +18,8 @@
     - 인공지능: GPT4All, deepl
     - 데이터베이스: Supabase
 
-<img width="907" alt="image" src="https://github.com/2023-Daegu-SW-Hackathon-Team2/.github/assets/81154257/e72db15e-1cac-4741-911a-ebcb3466a010">
+<img width="907" alt="image" src="https://github.com/2023-Daegu-SW-Hackathon-Team2/.github/assets/81154257/e72db15e-1cac-4741-911a-ebcb3466a010"> <br>
 ***
-<img width="1072" alt="image" src="https://github.com/2023-Daegu-SW-Hackathon-Team2/.github/assets/81154257/9e276945-1b39-45b6-b830-bb9d19672ae0">
-<br>
+<img width="1072" alt="image" src="https://github.com/2023-Daegu-SW-Hackathon-Team2/.github/assets/81154257/9e276945-1b39-45b6-b830-bb9d19672ae0"> <br>
 
 ## 시연 영상
