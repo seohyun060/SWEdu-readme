@@ -43,7 +43,7 @@
   - E타입. 청년을 위한 SW 개발
 
 ### 프로젝트 한 줄 설명
-  - 신규 청년 창업자들을 위한 Smart Web Editor(for DUmmies)는 GPT를 활용하여 자동 마케팅 문구를 추천해주고 아주 쉽고 간단한 물건 판매용 웹사이트를 React와 NestJS, Supabase등 응용이 가능한 기술 기반으로 만들어 줍니다.
+  - 청년 창업자의 웹 제작 어려움을 해결하기 위해 GPT를 활용하여 해결
 
 ### 프로젝트에 활용된 기술
   - 프론트: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) / ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
