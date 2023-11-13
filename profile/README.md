@@ -1,4 +1,8 @@
 # Smart Web Editor (for DUmmies) - SWEdu
+<div align=center>
+ <img width="500" alt="image" src="https://github.com/2023-Daegu-SW-Hackathon-Team2/.github/assets/81154257/05ff3464-b888-4e22-8306-313eed49f2da">
+ <img width="500" alt="image" src="https://github.com/2023-Daegu-SW-Hackathon-Team2/.github/assets/81154257/763ef860-d990-4b77-a458-f6da58931416"> <br>
+</div>
 
 
 ## 목차
@@ -62,3 +66,6 @@
   </p>
 
 ### 시연 영상
+하단 클릭시 유튜브로 이동  
+
+[![Video Label](http://img.youtube.com/vi/P1WAaMrgOO8/0.jpg)](https://www.youtube.com/watch?v=P1WAaMrgOO8)
